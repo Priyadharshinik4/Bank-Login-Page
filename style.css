@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    width: 95%;
+}
+.heading{
+    border: 1px solid plum;
+    width: 83.5rem;
+    height: 6rem;
+    background-color: plum;
+}
+.heading h1{
+    padding: 20px;
+    font-size: 40px;
+    color: white;
+    width: 100%;
+}
+span{
+    float: right;
+}
+i{
+    padding-right: 10px;
+}
+.container1{
+    padding: 30px;
+}
+.container1 input{
+    height: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.container1 label{
+    font-size: 20px;
+}
+#info{
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    margin-bottom: 5px;
+}
+.footer input{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    background-color: plum;
+    border-color: plum;
+    margin: 10px 5px 30px 5px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
